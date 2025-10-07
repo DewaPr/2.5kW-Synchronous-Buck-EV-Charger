@@ -1,5 +1,4 @@
 # 2.5kW-Synchronous-Buck-EV-Charger
-# 2.5kW Onboard EV Battery Charger
 
 This repository contains the complete design files for a 2.5kW onboard battery charger for electric vehicles. The design features a two-stage approach with an active Power Factor Correction (PFC) front-end and a DC-DC converter back-end.
 
