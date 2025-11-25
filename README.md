@@ -3,7 +3,7 @@
 This repository contains the complete design files for a 2.5kW onboard battery charger for electric vehicles. The design features a two-stage approach with an active Power Factor Correction (PFC) front-end and a DC-DC converter back-end.
 
 ![EV Charger PCB Image](placeholder.png)
-*(Tip: Replace this with a photo of your completed charger!)*
+*(To Be Added, Please check https://www.linkedin.com/in/dewapramudya/ -> Project for updated image)*
 
 ---
 
