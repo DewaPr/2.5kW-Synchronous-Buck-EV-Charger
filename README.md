@@ -27,6 +27,9 @@ The hardware is designed for high power density and thermal performance.
 
 All hardware design files (schematics, PCB layout) are in the `/hardware` directory.
 
+## Demonstration
+more image and testing on my LinkedIn: [dewapramudya](https://linkedin.com/in/dewapramudya)
+
 ## Project Status: Complete
 ---
 *Created by [Your Name], [Year]*
